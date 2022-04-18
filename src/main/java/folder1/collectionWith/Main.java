@@ -104,3 +104,21 @@ class UserDictionaryEntryDTO {
 //        }
 //          ]
 //        }
+
+
+// {
+//         "id":89,
+//         "userId":8,
+//         "referenceId":1020,
+//         "data":
+//           [
+//         {
+//         "column_name":"text1",
+//         "data_type": "text"
+//         },
+//         {
+//         "column_name":"sign",
+//         "data_type": "varchar"
+//         }
+//           ]
+//         }
